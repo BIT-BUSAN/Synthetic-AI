@@ -15,8 +15,8 @@ def blend_images(background_img, foreground_img, position):
     return background_img
 
 # 이미지 파일 경로
-background_img_path = "C:\\Users\\김김주영\\Desktop\\ppt\\무지개 배경.jpg"
-foreground_img_path = "C:\\Users\\김김주영\\Desktop\\ppt\\따봉페페.jpg"
+background_img_path = "C:\\Users\\user\\Desktop\\ppt\\sky.jpg"
+foreground_img_path = "C:\\Users\\user\\Desktop\\ppt\\apple.jpg"
 
 
 # 이미지 로드
