@@ -3,7 +3,7 @@ from rembg import remove #이거 안됌왜
 from PIL import Image
 
 input_path = 'control_img.jpg'
-output_path = 'rev_img1.png'
+output_path = 'rev_img.png'
 
 input = Image.open(input_path)
 output = remove(input)
