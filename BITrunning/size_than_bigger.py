@@ -17,4 +17,4 @@ y_offset = (new_height - image.height) // 2
 background.paste(image, (x_offset, y_offset))
 
 # 결과 이미지 저장
-background.save('control_img1.jpg')
+background.save('control_img.jpg')
